@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "reproducible-jupyter-notebooks"
+name = "exploring-ml-problems-with-jupyter"
 version = "0.1.0"
 description = ""
 authors = ["Markus Kaiser <markus@mrksr.de>"]
