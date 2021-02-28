@@ -5,7 +5,7 @@ description = ""
 authors = ["Markus Kaiser <markus@mrksr.de>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7.1"
 jupyterlab = "^3.0.9"
 seaborn = "^0.11.1"
 scikit-learn = "^0.24.1"
